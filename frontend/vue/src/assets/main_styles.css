@@ -1,0 +1,25 @@
+.nav-icon {
+    color: red;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.btn-icon-left {
+    line-height: 1.2;
+    margin-right: 4px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+
+.small-inline-paragraph {
+    margin-bottom: 1px;
+    line-height: 16px;
+}
+
+.btn-full-width {
+    width: 100%;
+    text-align: center;
+}
