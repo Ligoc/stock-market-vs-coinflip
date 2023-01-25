@@ -17,11 +17,11 @@ Installation and requirements:
 - node.js
 - NPM
 
-Python Virtual Environment (venv) need to be created.  
-Programs from requirements.txt should be installed.  
-$ pip install -r requirements.txt 
-vue.js and node.js should be installed.  
+Python Virtual Environment (venv) need to be created.   
+Programs from requirements.txt should be installed.   
+$ pip install -r requirements.txt   
+vue.js and node.js should be installed.    
 
-NPM should be installed in next location:  
-\frontend\vue\npm install  
-\frontend\vue\npm run dev  
+NPM should be installed in next location:    
+\frontend\vue\npm install    
+\frontend\vue\npm run dev    
