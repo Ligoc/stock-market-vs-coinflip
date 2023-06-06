@@ -1,5 +1,7 @@
 # stock-market-vs-coinflip
 
+Api /site was made with big cooperation/help of my brother to show /learn me how the web site comunicate with the API.  
+
 Program will get data from CSV file (from stooq.com) and simulate the game of shorts or longs depends of the coin toss. 
 
 Program will read a data from CSV file: date, opening value of the day, day closing value.
